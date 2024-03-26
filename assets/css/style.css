@@ -81,7 +81,7 @@ main {
     background-color: orange;
     /*Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 80px;
 }
 
 /*Footer*/
@@ -106,6 +106,14 @@ footer {
    .nav-toggle-label {
     display: none;
    }
+   #logo {
+    font-size: 280%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+   }
+   /*Main content*/
+   main {
+margin-top: 150px;
+   }
 }
     
-}
