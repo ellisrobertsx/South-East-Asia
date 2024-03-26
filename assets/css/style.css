@@ -26,10 +26,12 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a3a;
+    box-shadow: 0 2px 2px grey;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    
+    
 }
 header a {
     text-decoration: none;
@@ -49,20 +51,23 @@ h1 {
         text-align: center;
     }
     .active { 
-        border-bottom: 1px solid grey;
+        border-bottom: 1px solid black;
         
     }
 
     /*Nav bar styles for dropdown menu*/
     nav {
-        position: absolute;
+        position:absolute;
         background-color: white;
         width:100%;
         left:0;
         padding: 0 1rem;
         box-shadow: 0 2px 2px white;
         display: none;
-        top: 100%;
+        
+       
+        
+        
     }
         /*Nav toggle*/
         #nav-toggle:checked~nav {
@@ -83,6 +88,7 @@ main {
     /*Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 80px;
+    
 }
 
 /*Footer*/
@@ -123,4 +129,5 @@ margin-top: 150px;
     #menu a:hover{
         border-bottom: 1px solid grey;
     }
+    main { margin-top: 80px;}
 }
