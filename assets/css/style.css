@@ -49,7 +49,8 @@ h1 {
         text-align: center;
     }
     .active { 
-        border-bottom: solid 2px #3a3a3a3a;
+        border-bottom: 1px solid grey;
+        
     }
 
     /*Nav bar styles for dropdown menu*/
@@ -117,3 +118,9 @@ margin-top: 150px;
    }
 }
     
+/*Larger devices (laptops and desktops 992px and up )*/
+@media screen and (min-width:992px) {
+    #menu a:hover{
+        border-bottom: 1px solid grey;
+    }
+}
