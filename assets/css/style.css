@@ -20,16 +20,16 @@ body {
 }
 
 /*Header*/
- header {
-background-color: #ffffff;
-padding: 0 1rem;
-position: fixed;
-z-index: 99;
-width: 100%;
-box-shadow: 0 2px 2px #3a3a3a;
-display: flex;
-justify-content: space-between;
-align-items: baseline;
+header {
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 
 
 
@@ -51,8 +51,10 @@ h1 {
     list-style-type: none;
 
 }
-#menu > li {
-    margin-bottom: 1em; }
+
+#menu>li {
+    margin-bottom: 1em;
+}
 
 
 #logo {
@@ -105,35 +107,53 @@ main {
 
 /*thailand img section styles*/
 #thailand-img {
-    width: 50%;
+    width: 100%;
     height: 300px;
     background: url("../images/thailand-img.jpg") no-repeat center center/cover;
     box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
-  
+    
+
 }
+
 #thailand-head {
-    position: absolute;
-    left: 50%;
-    bottom: 80%;
-    padding: 10px;
+    position: relative;
+    left:0%;
+    top: 40%;
+    display: flex;
+    flex-direction: column;
 }
-#thailand-content-main
-{
+
+#thailand-content-main {
     position: absolute;
-    bottom: 70%;
-    left: 50%;
+    left: 0%;
+    left: 60%;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
 }
 
 #vietnam-img {
-    width: 50%;
+    width: 100%;
     height: 300px;
-    background: url("../images/vietnam-img.jpg") no-repeat center center/cover; 
-margin-left: 50%;
-margin-top: 10px;
-box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
+    background: url("../images/vietnam-img.jpg") no-repeat center center/cover;
+    margin-top: 10px;
+    box-shadow: rgb(69, 69, 69) 5px 20px 30px -10px;
 }
+
+#vietnam-head {
+display: block;
+margin-top: 10px;
+
     
+ 
+}
+
+#vietnam-content-main {
+    
+
+}
+
 /*Footer*/
 #social-networks {
     text-align: center;
@@ -164,11 +184,13 @@ box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
 
     #menu {
         display: flex;
-        
+
     }
-    #menu > li {
+
+    #menu>li {
         padding-left: 1rem;
     }
+
     .nav-toggle-label {
         display: none;
     }
@@ -190,6 +212,8 @@ box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
     #menu a:hover {
         border-bottom: 1px solid grey;
     }
+#thailand-img {
+    width: 50%;
+}
 
-    
 }
