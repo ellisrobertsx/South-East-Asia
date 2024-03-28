@@ -108,6 +108,7 @@ main {
     width: 50%;
     height: 300px;
     background: url("../images/thailand-img.jpg") no-repeat center center/cover;
+    box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
   
 }
 #thailand-head {
@@ -124,7 +125,15 @@ main {
     padding: 10px;
 }
 
-
+#vietnam-img {
+    width: 50%;
+    height: 300px;
+    background: url("../images/vietnam-img.jpg") no-repeat center center/cover; 
+margin-left: 50%;
+margin-top: 10px;
+box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
+}
+    
 /*Footer*/
 #social-networks {
     text-align: center;
