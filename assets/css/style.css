@@ -111,13 +111,13 @@ main {
     height: 300px;
     background: url("../images/thailand-img.jpg") no-repeat center center/cover;
     box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
-    
+
 
 }
 
 #thailand-head {
     position: relative;
-    left:0%;
+    left: 0%;
     top: 40%;
     display: flex;
     flex-direction: column;
@@ -130,7 +130,7 @@ main {
     padding: 10px;
     display: flex;
     flex-direction: column;
-    
+
 }
 
 #vietnam-img {
@@ -142,19 +142,16 @@ main {
 }
 
 #vietnam-head {
-display: block;
-margin-top: 10px;
+    display: block;
+    margin-top: 10px;
 
-    
- 
-}
 
-#vietnam-content-main {
-    
 
 }
 
-#top-places { 
+#vietnam-content-main {}
+
+#top-places {
     text-align: center;
     border-bottom: #3a3a3a solid 2px;
     margin-top: 10px;
@@ -174,16 +171,17 @@ margin-top: 10px;
     border-top: 2px;
     border-bottom: 2px;
 }
-    
-    #thailand-koh-tao {
-        font-size: 24px;
-        color: #3a3a3a;
-        text-decoration: none;
-        }
-        #koh-tao-medal {
-            font-size: 50px;
-            color: gold;
-        }
+
+#thailand-koh-tao {
+    font-size: 24px;
+    color: #3a3a3a;
+    text-decoration: none;
+}
+
+#koh-tao-medal {
+    font-size: 50px;
+    color: gold;
+}
 
 
 
@@ -191,6 +189,7 @@ margin-top: 10px;
     font-size: 50px;
     color: silver;
 }
+
 #pai {
     text-align: center;
     padding: 2rem;
@@ -202,11 +201,13 @@ margin-top: 10px;
     border-top: 2px;
     border-bottom: 2px;
 }
+
 #thailand-pai {
     font-size: 24px;
-        color: #3a3a3a;
-        text-decoration: none;
+    color: #3a3a3a;
+    text-decoration: none;
 }
+
 #hi-giang {
     text-align: center;
     padding: 2rem;
@@ -223,9 +224,12 @@ margin-top: 10px;
     color: gold;
 }
 
- #vietnam-hi-giang {
+#vietnam-hi-giang {
     text-decoration: none;
- }
+    font-size: 24px;
+    color: #3a3a3a;
+}
+
 #sapa {
     text-align: center;
     padding: 2rem;
@@ -234,7 +238,7 @@ margin-top: 10px;
     border-right: 2px;
     border-top: 2px;
     border-bottom: 2px;
-    
+
 }
 
 #sapa-medal {
@@ -244,6 +248,8 @@ margin-top: 10px;
 
 #vietnam-sapa {
     text-decoration: none;
+    font-size: 24px;
+    color: #3a3a3a;
 }
 
 /*Footer*/
@@ -304,8 +310,9 @@ margin-top: 10px;
     #menu a:hover {
         border-bottom: 1px solid grey;
     }
-#thailand-img {
-    width: 50%;
-}
+
+    #thailand-img {
+        width: 50%;
+    }
 
 }
