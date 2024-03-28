@@ -165,6 +165,87 @@ margin-top: 10px;
     justify-content: space-between;
 }
 
+#koh-tao {
+    text-align: center;
+    padding: 1rem;
+    border: solid grey 5px;
+    border-left: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-bottom: 2px;
+}
+    
+    #thailand-koh-tao {
+        font-size: 24px;
+        color: #3a3a3a;
+        text-decoration: none;
+        }
+        #koh-tao-medal {
+            font-size: 50px;
+            color: gold;
+        }
+
+
+
+#pai-medal {
+    font-size: 50px;
+    color: silver;
+}
+#pai {
+    text-align: center;
+    padding: 2rem;
+    border: solid grey 5px;
+    text-align: center;
+    padding: 1rem;
+    border-left: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-bottom: 2px;
+}
+#thailand-pai {
+    font-size: 24px;
+        color: #3a3a3a;
+        text-decoration: none;
+}
+#hi-giang {
+    text-align: center;
+    padding: 2rem;
+    border: solid grey 5px;
+    text-align: center;
+    border-left: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-bottom: 2px;
+}
+
+#hi-giang-medal {
+    font-size: 50px;
+    color: gold;
+}
+
+ #vietnam-hi-giang {
+    text-decoration: none;
+ }
+#sapa {
+    text-align: center;
+    padding: 2rem;
+    border: solid grey 5px;
+    border-left: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-bottom: 2px;
+    
+}
+
+#sapa-medal {
+    font-size: 50px;
+    color: silver;
+}
+
+#vietnam-sapa {
+    text-decoration: none;
+}
+
 /*Footer*/
 #social-networks {
     text-align: center;
