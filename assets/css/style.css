@@ -105,6 +105,13 @@ main {
     margin-top: 47px;
 }
 
+#intro {
+
+    padding-top: 96px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
 /*thailand img section styles*/
 #thailand-img {
     width: 100%;
@@ -149,7 +156,7 @@ main {
 
 }
 
-#vietnam-content-main {}
+
 
 #top-places {
     text-align: center;
@@ -312,7 +319,39 @@ main {
     }
 
     #thailand-img {
+        float: left;
         width: 50%;
+        position: relative;
+        margin-left: 10px;
     }
+
+    #thailand-head {
+        padding-left: 5px;
+        border-bottom: solid 2px black;
+        display: inline-block;
+    }
+
+    #thailand-para {
+        padding-left: 16px;
+        position: absolute;
+        width: 50%;
+        left: 50%;
+    }
+  
+    
+    #vietnam-img {
+width: 50%;   
+display: flex;
+margin-top: 10px;
+float: right;
+position: relative;
+}
+
+#vietnam-content-main{
+    margin-top: 300px;
+}
+#top-places{
+    margin-top: 200px;
+}
 
 }
