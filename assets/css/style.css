@@ -152,13 +152,14 @@ main {
     justify-content: center;
     text-align: center;
 }
+
 #Thailand-main-nav {
     display: flex;
     justify-content: center;
     color: white;
     border: 2px solid #3a3a3a3a;
     text-decoration: none;
-    background-color:#3a3a3a;
+    background-color: #3a3a3a;
     margin-top: 10px;
 
 }
@@ -175,7 +176,7 @@ main {
 
 #vietnam-head {
     position: relative;
-    
+
     display: flex;
     justify-content: center;
     text-align: center;
@@ -187,13 +188,14 @@ main {
     justify-content: center;
     text-align: center;
 }
+
 #vietnam-main-nav {
     display: flex;
     justify-content: center;
     color: white;
     border: 2px solid #3a3a3a3a;
     text-decoration: none;
-    background-color:#3a3a3a;
+    background-color: #3a3a3a;
     margin-top: 10px;
 }
 
@@ -202,7 +204,7 @@ main {
     text-align: center;
     border-bottom: #3a3a3a solid 2px;
     margin-top: 10px;
-    
+
 }
 
 #top-places-content {
@@ -320,13 +322,31 @@ main {
 
     /*Header*/
 
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 1rem;
+    header {
+        display: flex;
+        text-align: center;
+        justify-content: center;
     }
+
+    #logo {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        
+    }
+
+    nav {
+        display: flex;
+        width: 100%;
+        padding-right: 1rem;
+        text-align: center;
+        justify-content: center;
+        margin: 0;
+        }
+
+        #intro {
+            font-size: larger;
+        }
 
     #menu {
         display: flex;
@@ -351,6 +371,12 @@ main {
     main {
         margin-top: 79px;
     }
+    #top-places-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
 }
 
 /*Larger devices (laptops and desktops 992px and up )*/
