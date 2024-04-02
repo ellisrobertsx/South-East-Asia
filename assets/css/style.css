@@ -107,9 +107,11 @@ main {
 
 #intro {
 
-    padding-top: 96px;
+    padding-top: 70px;
     margin-left: 2px;
     margin-right: 2px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 /*thailand img section styles*/
@@ -117,7 +119,9 @@ main {
     width: 100%;
     height: 300px;
     background: url("../images/thailand-img.jpg") no-repeat center center/cover;
-    box-shadow: rgb(69, 69, 69) 0px 20px 30px -10px;
+
+    margin-left: 2px;
+    margin-right: 2px;
 
 
 }
@@ -129,6 +133,7 @@ main {
     display: flex;
     flex-direction: column;
     margin-top: 10px;
+    align-items: center;
 }
 
 #thailand-content-main {
@@ -138,10 +143,24 @@ main {
     padding: 10px;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
+
 #thailand-para {
     margin-left: 2px;
-    margin-right:2px;
+    margin-right: 2px;
+    justify-content: center;
+    text-align: center;
+}
+#Thailand-main-nav {
+    display: flex;
+    justify-content: center;
+    color: white;
+    border: 2px solid #3a3a3a3a;
+    text-decoration: none;
+    background-color:#3a3a3a;
+    margin-top: 10px;
+
 }
 
 #vietnam-img {
@@ -149,17 +168,33 @@ main {
     height: 300px;
     background: url("../images/vietnam-img.jpg") no-repeat center center/cover;
     margin-top: 10px;
-    box-shadow: rgb(69, 69, 69) 5px 20px 30px -10px;
+
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 #vietnam-head {
-    display: block;
-    margin-top: 10px;
+    position: relative;
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
-#vietnam-para{
+#vietnam-para {
     margin-left: 2px;
-    margin-right:2px;
+    margin-right: 2px;
+    justify-content: center;
+    text-align: center;
+}
+#vietnam-main-nav {
+    display: flex;
+    justify-content: center;
+    color: white;
+    border: 2px solid #3a3a3a3a;
+    text-decoration: none;
+    background-color:#3a3a3a;
+    margin-top: 10px;
 }
 
 /*Top places content */
@@ -167,6 +202,7 @@ main {
     text-align: center;
     border-bottom: #3a3a3a solid 2px;
     margin-top: 10px;
+    
 }
 
 #top-places-content {
@@ -322,7 +358,8 @@ main {
     #menu a:hover {
         border-bottom: 1px solid grey;
     }
-/*Thailand-content*/
+
+    /*Thailand-content*/
 
     #thailand-img {
         float: left;
@@ -335,7 +372,7 @@ main {
         padding-left: 5px;
         border-bottom: solid 2px black;
         display: inline-block;
-        
+
     }
 
     #thailand-para {
@@ -344,23 +381,24 @@ main {
         width: 50%;
         left: 50%;
     }
-  
+
     /*Vietnam-content*/
 
     #vietnam-img {
-width: 50%;   
-display: flex;
-margin-top: 10px;
-float: right;
-position: relative;
-margin-right: 10px;
-}
+        width: 50%;
+        display: flex;
+        margin-top: 10px;
+        float: right;
+        position: relative;
+        margin-right: 10px;
+    }
 
-#vietnam-content-main{
-    margin-top: 300px;
-}
-#top-places{
-    margin-top: 200px;
-}
+    #vietnam-content-main {
+        margin-top: 300px;
+    }
+
+    #top-places {
+        margin-top: 200px;
+    }
 
 }
