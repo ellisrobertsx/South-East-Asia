@@ -329,7 +329,7 @@ main {
 
 #thailand-flag {
     width: 100%;
-    height: 200px;
+    height:200px;
     background: url("../images/thailand-flag.jpg") no-repeat center center/cover;
     margin-top: 10px;
 
@@ -377,7 +377,7 @@ main {
 
 #hostellink {
     display: flex;
-    justify-content: center;
+   justify-content: center;
     color: white;
     border: 2px solid #3a3a3a3a;
     text-decoration: none;
@@ -465,6 +465,10 @@ main {
     margin-left: 2px;
     margin-right: 2px;
 }
+
+/*Competition Form*/
+#sig
+
 /*Media query: tablets and larger (768px and up*/
 @media screen and (min-width:768px) {
 
@@ -594,10 +598,4 @@ main {
     list-style: none;
 }
 
-#kohtaoimg,
-#kohimg,
-#paiimg,
-#kohsamui,
-#thailand-flag {
-    height: 500px;
-}
+
