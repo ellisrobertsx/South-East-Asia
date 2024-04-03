@@ -507,7 +507,9 @@ main {
         width: 50%;
         left: 50%;
     }
-
+    #kohtaoimg, #kohimg, #paiimg, #kohsamui, #thailand-flag {
+        height: 300px; }
+    }
 
     /*Vietnam-content*/
 
@@ -527,5 +529,10 @@ main {
     #top-places {
         margin-top: 200px;
     }
-
+#thailist {
+    text-align: center;
+    list-style: none;
+}
+#kohtaoimg, #kohimg, #paiimg, #kohsamui, #thailand-flag {
+    height: 500px;
 }
