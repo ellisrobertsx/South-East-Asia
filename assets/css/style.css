@@ -403,6 +403,7 @@ main {
     margin-left: 2px;
     margin-right: 2px;
 }
+
 #kohsamui {
     width: 100%;
     height: 200px;
@@ -421,12 +422,12 @@ main {
     font-size: x-large;
     padding-top: 150px;
 }
+
 #vietnam-flag {
     width: 100%;
     height: 200px;
     background: url("../images/vietnam-flag.jpg") no-repeat center center/cover;
     margin-top: 10px;
-
     margin-left: 2px;
     margin-right: 2px;
 }
@@ -440,7 +441,7 @@ main {
     margin-right: 2px;
 }
 
-#sapaimg{
+#sapaimg {
     width: 100%;
     height: 200px;
     background: url("../images/sapaimg.jpg") no-repeat center center/cover;
@@ -448,6 +449,15 @@ main {
     margin-left: 2px;
     margin-right: 2px;
 }
+#hanoiimg{
+    width: 100%;
+    height: 200px;
+    background: url("../images/hanoiimg.jpg") no-repeat center center/cover;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
 /*Media query: tablets and larger (768px and up*/
 @media screen and (min-width:768px) {
 
@@ -543,32 +553,44 @@ main {
         width: 50%;
         left: 50%;
     }
-    #kohtaoimg, #kohimg, #paiimg, #kohsamui, #thailand-flag {
-        height: 300px; }
-    }
 
-    /*Vietnam-content*/
-
-    #vietnam-img {
-        width: 50%;
-        display: flex;
-        margin-top: 10px;
-        float: right;
-        position: relative;
-        margin-right: 10px;
+    #kohtaoimg,
+    #kohimg,
+    #paiimg,
+    #kohsamui,
+    #thailand-flag {
+        height: 300px;
     }
+}
 
-    #vietnam-content-main {
-        margin-top: 300px;
-    }
+/*Vietnam-content*/
 
-    #top-places {
-        margin-top: 200px;
-    }
+#vietnam-img {
+    width: 50%;
+    display: flex;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    margin-right: 10px;
+}
+
+#vietnam-content-main {
+    margin-top: 300px;
+}
+
+#top-places {
+    margin-top: 200px;
+}
+
 #thailist {
     text-align: center;
     list-style: none;
 }
-#kohtaoimg, #kohimg, #paiimg, #kohsamui, #thailand-flag {
+
+#kohtaoimg,
+#kohimg,
+#paiimg,
+#kohsamui,
+#thailand-flag {
     height: 500px;
 }
