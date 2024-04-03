@@ -34,11 +34,51 @@
 
     <!--Main-->
     <main>
-        <section id="competition">
-            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net"></form>
-            <h2><i class="fa-solid fa-heartbeat"></i> Let's get you signed up!</h2>
-        </section>
-
+        <h2 id="competitiontime">Competition Time!</h2>
+        <h4 id="compcontext">Fill in the below form and answer all 3 questions correctly to be in with the chance of winning a free boat trip to Ha Long Bay!</h4>
+        <form action="https://formdump.codeinstitute.net" method="post" id="competition">
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname" required><br>
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname" required><br>
+            <label for="email">Email Address:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+          
+            <h2>Quiz</h2>
+            <p>Answer the following questions:</p>
+          
+            <p>1. What is the currency used in Vietnam?</p>
+            <input type="radio" id="q1_1" name="q1" value="rupee">
+            <label for="q1_1">Rupee</label><br>
+            <input type="radio" id="q1_2" name="q1" value="dong">
+            <label for="q1_2">Dong</label><br>
+            <input type="radio" id="q1_3" name="q1" value="ringgit">
+            <label for="q1_3">Ringgit</label><br>
+            <input type="radio" id="q1_4" name="q1" value="renminbi">
+            <label for="q1_4">Renminbi</label><br><br>
+          
+            <p>2. Which of the following is the name of the Vietnamese sandwich that consists of a baguette filled with meat, sliced cucumber, pickled carrot, daikon, and fresh cilantro?</p>
+            <input type="radio" id="q2_1" name="q2" value="kaya_toast">
+            <label for="q2_1">Kaya Toast</label><br>
+            <input type="radio" id="q2_2" name="q2" value="gua_bao">
+            <label for="q2_2">Gua Bao</label><br>
+            <input type="radio" id="q2_3" name="q2" value="banh_mi">
+            <label for="q2_3">Banh Mi</label><br>
+            <input type="radio" id="q2_4" name="q2" value="rou_jia_mo">
+            <label for="q2_4">Rou Jia Mo</label><br><br>
+          
+            <p>3. Vietnam produces more than 55% of the global supply of this crop and is often referred to as the “king of…”</p>
+            <input type="radio" id="q3_1" name="q3" value="cashews">
+            <label for="q3_1">Cashews</label><br>
+            <input type="radio" id="q3_2" name="q3" value="rice">
+            <label for="q3_2">Rice</label><br>
+            <input type="radio" id="q3_3" name="q3" value="cotton">
+            <label for="q3_3">Cotton</label><br>
+            <input type="radio" id="q3_4" name="q3" value="coffee">
+            <label for="q3_4">Coffee</label><br><br>
+          
+            <input type="submit" value="Submit">
+          </form>
     </main>
 
     <!--Footer-->

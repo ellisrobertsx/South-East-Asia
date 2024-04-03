@@ -467,7 +467,22 @@ main {
 }
 
 /*Competition Form*/
-#sig
+#competitiontime {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+   
+
+}
+
+
+
+
+#competition {
+    margin-top: 10px;
+    
+}
 
 /*Media query: tablets and larger (768px and up*/
 @media screen and (min-width:768px) {
