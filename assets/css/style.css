@@ -169,15 +169,16 @@ main {
     height: 300px;
     background: url("../images/vietnam-img.jpg") no-repeat center center/cover;
     margin-top: 10px;
-
     margin-left: 2px;
     margin-right: 2px;
+    
 }
 
 #vietnam-head {
     position: relative;
+    margin-top: 10px;
+    padding-top: 10px;
 
-    display: flex;
     justify-content: center;
     text-align: center;
 }
@@ -210,6 +211,7 @@ main {
 #top-places-content {
     text-align: center;
     justify-content: space-between;
+    margin-top: 10px;
 }
 
 #koh-tao {
@@ -386,6 +388,10 @@ main {
 
 }
 
+section a {
+    text-decoration: none;
+}
+
 #paiimg {
     width: 100%;
     height: 200px;
@@ -471,11 +477,12 @@ main {
 /*Competition Form*/
 
 #alignform {
-   text-align: center;
-   margin-top: 60px;
-   background: url("../images/halongbay.jpg") no-repeat center center/cover;
-   
+    text-align: center;
+    margin-top: 60px;
+    background: url("../images/halongbay.jpg") no-repeat center center/cover;
+
 }
+
 #submit {
     border: #3a3a3a 5px solid;
     background-color: transparent;
@@ -567,8 +574,8 @@ main {
     /*Thailand-content*/
 
     #thailand-img {
-        float: left;
-        width: 50%;
+      
+        width: 100%;
         position: relative;
         margin-left: 10px;
     }
@@ -576,7 +583,8 @@ main {
     #thailand-head {
         padding-left: 5px;
         border-bottom: solid 2px black;
-        display: inline-block;
+        position: relative;
+        text-align: center;
 
     }
 
@@ -599,12 +607,13 @@ main {
 /*Vietnam-content*/
 
 #vietnam-img {
-    width: 50%;
+    width: 100%;
     display: flex;
     margin-top: 10px;
     float: right;
     position: relative;
-    margin-right: 10px;
+    margin-right: 2px;
+    margin-left: 2px;
 }
 
 #vietnam-content-main {
@@ -612,7 +621,7 @@ main {
 }
 
 #top-places {
-    margin-top: 200px;
+    
 }
 
 #thailist {
