@@ -403,6 +403,14 @@ main {
     margin-left: 2px;
     margin-right: 2px;
 }
+#kohsamui {
+    width: 100%;
+    height: 200px;
+    background: url("../images/kohsamui.jpg") no-repeat center center/cover;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
 
 /*Media query: tablets and larger (768px and up*/
 @media screen and (min-width:768px) {
