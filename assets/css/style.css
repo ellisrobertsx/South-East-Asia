@@ -305,6 +305,8 @@ main {
 }
 
 
+   
+
 /*Footer*/
 #social-networks {
     text-align: center;
@@ -377,20 +379,24 @@ main {
 
 }
 
-#hostellink {
+.kohtaosection {
+    text-decoration: none;
+    background-color: #3a3a3a;
+
+}
+
+ #hostellink {
     display: flex;
     justify-content: center;
     color: white;
     border: 2px solid #3a3a3a3a;
     text-decoration: none;
     background-color: #3a3a3a;
-    margin-top: 10px;
+    
 
 }
 
-section a {
-    text-decoration: none;
-}
+
 
 #paiimg {
     width: 100%;
