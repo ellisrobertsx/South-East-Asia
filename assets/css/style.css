@@ -119,7 +119,7 @@ main {
     width: 100%;
     height: 300px;
     background: url("../images/thailand-img.jpg") no-repeat center center/cover;
-
+    margin-top: 10px;
     margin-left: 2px;
     margin-right: 2px;
 
@@ -129,7 +129,7 @@ main {
 #thailand-head {
     position: relative;
     margin-left: 2px;
-    top: 40%;
+
     display: flex;
     flex-direction: column;
     margin-top: 10px;
@@ -171,6 +171,7 @@ main {
     margin-top: 10px;
     margin-left: 2px;
     margin-right: 2px;
+
 
 }
 
@@ -319,7 +320,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a3a;
+    color: purple;
 }
 
 
@@ -562,7 +563,8 @@ main {
     #top-places-content {
         display: flex;
         justify-content: space-between;
-        align-items: flex-end; /* Align items to the bottom */
+        align-items: flex-end;
+        /* Align items to the bottom */
     }
 
     #kohtaoimg,
@@ -606,9 +608,6 @@ main {
         position: relative;
         margin-right: 2px;
         margin-left: 2px;
-        width: 100%;
-        position: relative;
-        margin-left: 10px;
         height: 400px;
     }
 
