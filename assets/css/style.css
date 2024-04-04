@@ -171,7 +171,7 @@ main {
     margin-top: 10px;
     margin-left: 2px;
     margin-right: 2px;
-    
+
 }
 
 #vietnam-head {
@@ -305,7 +305,7 @@ main {
 }
 
 
-   
+
 
 /*Footer*/
 #social-networks {
@@ -385,14 +385,14 @@ main {
 
 }
 
- #hostellink {
+#hostellink {
     display: flex;
     justify-content: center;
     color: white;
     border: 2px solid #3a3a3a3a;
     text-decoration: none;
     background-color: #3a3a3a;
-    
+
 
 }
 
@@ -561,12 +561,31 @@ main {
 
     #top-places-content {
         display: flex;
-        flex-wrap: wrap;
         justify-content: space-between;
-        flex-direction: row;
-        align-items: flex-start;
+        align-items: flex-end; /* Align items to the bottom */
     }
 
+    #kohtaoimg,
+    #thailand-flag,
+    #paiimg,
+    #kohimg,
+    #kohsamui {
+        height: 300px;
+    }
+
+    #hagiang,
+    #vietnam-flag,
+    #sapaimg,
+    #hanoiimg,
+    #hochimin {
+        height: 300px;
+    }
+
+    #alignform {
+        height: 100%;
+        margin-top: 0;
+
+    }
 
 }
 
@@ -580,10 +599,17 @@ main {
     /*Thailand-content*/
 
     #thailand-img {
-      
+        width: 100%;
+        display: flex;
+        margin-top: 10px;
+        float: right;
+        position: relative;
+        margin-right: 2px;
+        margin-left: 2px;
         width: 100%;
         position: relative;
         margin-left: 10px;
+        height: 400px;
     }
 
     #thailand-head {
@@ -594,20 +620,16 @@ main {
 
     }
 
-    #thailand-para {
-        padding-left: 16px;
-        position: absolute;
-        width: 50%;
-        left: 50%;
-    }
+
 
     #kohtaoimg,
     #kohimg,
     #paiimg,
     #kohsamui,
     #thailand-flag {
-        height: 300px;
+        height: 500px;
     }
+
 }
 
 /*Vietnam-content*/
@@ -620,17 +642,31 @@ main {
     position: relative;
     margin-right: 2px;
     margin-left: 2px;
+    height: 400px;
+}
+
+#hagiang,
+#vietnam-flag,
+#sapaimg,
+#hanoiimg,
+#hochimin {
+    height: 500px;
 }
 
 #vietnam-content-main {
     margin-top: 300px;
 }
 
-#top-places {
-    
-}
+
 
 #thailist {
     text-align: center;
     list-style: none;
+}
+
+#submit {
+    display: inline-block;
+    width: auto;
+    padding: 5px;
+    text-transform: uppercase;
 }
