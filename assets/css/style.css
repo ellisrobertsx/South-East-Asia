@@ -346,10 +346,11 @@ main {
     text-align: center;
 }
 
-#thaiheadings {
+.thaiheadings{
     margin-top: 10px;
     text-align: center;
     border-bottom: 2px solid gray;
+    
 }
 
 #kohtaoimg {
@@ -362,12 +363,12 @@ main {
     margin-right: 2px;
 }
 
-#thaicontext {
+.thaicontext {
     text-align: center;
     margin-top: 10px;
 }
 
-#things-to-do {
+.things-to-do {
     margin-top: 15px;
     font-size: larger;
     text-align: center;
@@ -375,18 +376,18 @@ main {
 
 }
 
-#thailist {
-    margin-left: 2x;
+.thailist {
+    margin-left: 2px;
 
 }
 
-.kohtaosection {
+#kohtaosection {
     text-decoration: none;
     background-color: #3a3a3a;
 
 }
 
-#hostellink {
+.hostellink {
     display: flex;
     justify-content: center;
     color: white;
@@ -658,7 +659,7 @@ main {
 
 
 
-#thailist {
+.thailist {
     text-align: center;
     list-style: none;
 }
