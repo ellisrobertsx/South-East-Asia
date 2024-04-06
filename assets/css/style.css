@@ -332,7 +332,7 @@ main {
     font-size: x-large;
 }
 
-#thailand-flag {
+#thailand-flag, #vietnam-flag {
     width: 100%;
     height: 200px;
     background: url("../images/thailand-flag.jpg") no-repeat center center/cover;
@@ -346,11 +346,11 @@ main {
     text-align: center;
 }
 
-.thaiheadings{
+.thaiheadings {
     margin-top: 10px;
     text-align: center;
     border-bottom: 2px solid gray;
-    
+
 }
 
 #kohtaoimg {
@@ -437,14 +437,7 @@ main {
     padding-top: 150px;
 }
 
-#vietnam-flag {
-    width: 100%;
-    height: 200px;
-    background: url("../images/vietnam-flag.jpg") no-repeat center center/cover;
-    margin-top: 10px;
-    margin-left: 2px;
-    margin-right: 2px;
-}
+
 
 #hagiang {
     width: 100%;
@@ -572,10 +565,7 @@ main {
     #thailand-flag,
     #paiimg,
     #kohimg,
-    #kohsamui {
-        height: 300px;
-    }
-
+    #kohsamui,
     #hagiang,
     #vietnam-flag,
     #sapaimg,
@@ -583,6 +573,8 @@ main {
     #hochimin {
         height: 300px;
     }
+
+    
 
     #alignform {
         height: 100%;
@@ -601,7 +593,7 @@ main {
 
     /*Thailand-content*/
 
-    #thailand-img {
+    #thailand-img, #vietnam-img {
         width: 100%;
         display: flex;
         margin-top: 10px;
@@ -626,7 +618,12 @@ main {
     #kohimg,
     #paiimg,
     #kohsamui,
-    #thailand-flag {
+    #thailand-flag,
+    #hagiang,
+    #vietnam-flag,
+    #sapaimg,
+    #hanoiimg,
+    #hochimin {
         height: 500px;
     }
 
@@ -634,28 +631,6 @@ main {
 
 /*Vietnam-content*/
 
-#vietnam-img {
-    width: 100%;
-    display: flex;
-    margin-top: 10px;
-    float: right;
-    position: relative;
-    margin-right: 2px;
-    margin-left: 2px;
-    height: 400px;
-}
-
-#hagiang,
-#vietnam-flag,
-#sapaimg,
-#hanoiimg,
-#hochimin {
-    height: 500px;
-}
-
-#vietnam-content-main {
-    margin-top: 300px;
-}
 
 
 
