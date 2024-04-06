@@ -1,5 +1,6 @@
 # South East Asia 
 
+## Introduction
 South East Asia is a website to give fellow travellers a basic guide to travelling around Thailand and Vietnam. The website shows users the best places to go, things to do and the best placed to stay in both Thailand and Vietnam. The website offers a compeition that the users can enter to win the chance of a free boat trip around halong bay, providing they get all 3 questions correct. 
 ![Responsice Mockup](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/south-east-asia-responsive.png)
 I would like to mention that i am going to keep working on this site to make it more useful in the future, Once i complete this course and leave my current 40hr a week job i would like for this site to be used regularly 
@@ -10,7 +11,6 @@ I would like to mention that i am going to keep working on this site to make it 
 1 - Planning Stage 
 - Purpose of the site 
 - Easy to navigate 
-- Target audience 
 - Is it useful? 
 
 2 - Feautures/Elements used on each page
@@ -43,7 +43,10 @@ I would like to mention that i am going to keep working on this site to make it 
 - Background image of ha long bay 
 - User must answer all 3 questions correctly for the form to submit 
 
-
+### Planning Stage
+- The purpose of this site is to give fellow backpackers the best places to go in Both Thailand and Vietnam. Through personal experience i have reccomended the best places to go and thigs to do, also giving a link to the best hostel to stay
+- I wanted to make the site and simple to use as possible, the navbar and hyperlinks make the site very user friendly and easy to navigate 
+- I believe this site will be useful for anyone travelling to either Thailand or Vietnam 
 
 ### Existing Features
 
@@ -54,7 +57,7 @@ I would like to mention that i am going to keep working on this site to make it 
 
 ![Nav Bar](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/navigationbar.png)
 
-- __The Home page images__
+- __The Home page__
 
  - The landing page images are of both Thailand and Vietnam, this allows the user to see an image before clicking on the individual screens 
   
@@ -94,18 +97,19 @@ I would like to mention that i am going to keep working on this site to make it 
 
 
 ### Features Left to Implement
-
+- I will be adding pages for Cambodia and Indonesia once i complete the course 
 
 
 ## Testing 
-HTML Validator
-CSS Validator
+HTML Validator - A couple errors (see below)
+CSS Validator - No errors 
 
 
 
 ### Validator Testing 
 - I encountered an error relating me to using the same ID mulitple times, this was an easy fix as i changed the ID's to Classes and it kept the context of the page looking the way i wanted it to. 
 - Another error found was because i had used LI elements below a section element, this was also an easy fix as i changed the section to a DIV 
+- During the testing process i made sure the site was resposinve on 3 screen sizes ( Phone Ipad Desktop)
 
 
 ### Unfixed Bugs
