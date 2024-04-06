@@ -1,7 +1,7 @@
 # South East Asia 
 
 South East Asia is a website to give fellow travellers a basic guide to travelling around Thailand and Vietnam. The website shows users the best places to go, things to do and the best placed to stay in both Thailand and Vietnam. The website offers a compeition that the users can enter to win the chance of a free boat trip around halong bay, providing they get all 3 questions correct. 
-[Responsive img] (https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/south-east-asia-responsive.png)
+![Responsice Mockup](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/south-east-asia-responsive.png)
 I would like to mention that i am going to keep working on this site to make it more useful in the future, Once i complete this course and leave my current 40hr a week job i would like for this site to be used regularly 
 
 
