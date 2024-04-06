@@ -5,7 +5,6 @@ South East Asia is a website to give fellow travellers a basic guide to travelli
 I would like to mention that i am going to keep working on this site to make it more useful in the future, Once i complete this course and leave my current 40hr a week job i would like for this site to be used regularly 
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 1 - Planning Stage 
