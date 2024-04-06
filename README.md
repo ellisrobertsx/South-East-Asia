@@ -54,24 +54,26 @@ I would like to mention that i am going to keep working on this site to make it 
 
 ![Nav Bar](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/navigationbar.png)
 
-- __The landing page images__
+- __The Home page images__
 
  - The landing page images are of both Thailand and Vietnam, this allows the user to see an image before clicking on the individual screens 
   
 
 ![Landing Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/thai-readme.png)
 ![Landing Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/vietnamimg-readme.png)
-- __Club Ethos Section__
+- __Thailand Main Screen__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The Thailand main page gives the user a chance to take a look at the top 4 places to go in Thailand.
+  - Things to do in each location 
+  - Best place to stay in each location  
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Vietnam Main Screen__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+   - The Vietnam main page gives the user a chance to take a look at the top 4 places to go in Vietnam.
+  - Things to do in each location 
+  - Best place to stay in each location  
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
