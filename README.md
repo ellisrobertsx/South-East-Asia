@@ -132,8 +132,8 @@ I would like to mention that I am going to keep working on this site to make it 
 ## Testing
 HTML Validator - A couple errors (see below)
 CSS Validator - No errors
-Personal testing - making sure all hyperlinks and navbars work
-
+I have personally tested - making sure all hyperlinks and navbars work
+I have tested the site on both google chrome and internet explorer 
 
 
 
