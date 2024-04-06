@@ -52,7 +52,7 @@ I would like to mention that i am going to keep working on this site to make it 
   - Featured on all four pages, the full responsive navigation bar includes links to Home page, Thailand page, Vietnam page and competition page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/navigationbar.png)
 
 - __The landing page images__
 
