@@ -67,7 +67,7 @@ I would like to mention that i am going to keep working on this site to make it 
   - Things to do in each location 
   - Best place to stay in each location  
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/thailandresponsive.png)
 
 - __Vietnam Main Screen__
 
@@ -75,7 +75,7 @@ I would like to mention that i am going to keep working on this site to make it 
   - Things to do in each location 
   - Best place to stay in each location  
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/vietnamresponsive.png)
 
 - __The Footer__ 
 
