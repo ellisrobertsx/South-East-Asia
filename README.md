@@ -62,8 +62,7 @@ I would like to mention that i am going to keep working on this site to make it 
  - The landing page images are of both Thailand and Vietnam, this allows the user to see an image before clicking on the individual screens 
   
 
-![Landing Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/thai-readme.png)
-![Landing Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/vietnamimg-readme.png)
+![home screen] (https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/homescreen.png)
 - __Thailand Main Screen__
 
   - The Thailand main page gives the user a chance to take a look at the top 4 places to go in Thailand.
