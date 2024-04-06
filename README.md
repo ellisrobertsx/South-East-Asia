@@ -59,8 +59,8 @@ I would like to mention that i am going to keep working on this site to make it 
  - The landing page images are of both Thailand and Vietnam, this allows the user to see an image before clicking on the individual screens 
   
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
+![Landing Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/thai-readme.png)
+![Landing Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/vietnamimg-readme.png)
 - __Club Ethos Section__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
