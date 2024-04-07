@@ -9,7 +9,7 @@ I would like to mention that I am going to keep working on this site to make it 
 
 
 
-## Features
+##  Contents
 1: Planning Stage
 - Purpose of the site
 - Easy to navigate
