@@ -51,10 +51,14 @@ I would like to mention that I am going to keep working on this site to make it 
 - User must answer all three questions correctly for the form to submit
 
 
+
+
 ### Planning Stage
+
 - The purpose of this site is to give fellow backpackers the best places to go in both Thailand and Vietnam. Through personal experience, I have recommended the best places to go and things to do and giving a link to the best hostel to stay
 - I wanted to make the site and simple to use as possible, the navbar and hyperlinks make the site very user friendly and easy to navigate
 - I believe this site will be useful for anyone travelling to either Thailand or Vietnam.
+
 [Back to top](#contents)
 
 ### Existing Features
@@ -67,6 +71,8 @@ I would like to mention that I am going to keep working on this site to make it 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 
+[Back to top](#contents)
+
 ![Nav Bar](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/navigationbar.png)
 
 
@@ -78,6 +84,7 @@ I would like to mention that I am going to keep working on this site to make it 
 
 
 
+[Back to top](#contents)
 
 ![Home Screen](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/homescreen.png)
 - __Thailand Main Screen__
@@ -89,6 +96,8 @@ I would like to mention that I am going to keep working on this site to make it 
 ![Thailand Page](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/thailandresponsive.png)
 
 
+[Back to top](#contents)
+
 - __Vietnam Main Screen__
 
 
@@ -96,6 +105,8 @@ I would like to mention that I am going to keep working on this site to make it 
   - Things to do in each location
   - Best place to stay in each location  
 
+
+[Back to top](#contents)
 
 ![Vietnam Page ](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/vietnamresponsive.png)
 
@@ -106,6 +117,8 @@ I would like to mention that I am going to keep working on this site to make it 
   - The footer section includes links to the relevant social media sites for South East Asia. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
+
+[Back to top](#contents)
 
 ![Footer](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/footerresponsive.png)
 
@@ -118,14 +131,17 @@ I would like to mention that I am going to keep working on this site to make it 
   - User must fill in all fields and answer the three questions correctly
 
 
+[Back to top](#contents)
+
 ![Competition](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/competitionresponsive.png)
+
 
 
 
 ### Features Left to Implement
 - I will be adding pages for Cambodia and Indonesia once i complete the course
 
-
+[Back to top](#contents)
 
 ## Testing
 HTML Validator - A couple errors (see below)
@@ -134,14 +150,14 @@ I have personally tested - making sure all hyperlinks and navbars work
 I have tested the site on both google chrome and internet explorer 
 
 
-
+[Back to top](#contents)
 
 ### Validator Testing
 - I encountered an error relating me to using the same ID multiple times, this was an easy fix as i changed the ID's to Classes and it kept the context of the page looking the way i wanted it to.
 - Another error found was because i had used LI elements below a section element, this was also an easy fix as i changed the section to a DIV
 - During the testing process i made sure the site was responsive on three screen sizes ( Phone Ipad Desktop)
 
-
+[Back to top](#contents)
 
 ### Unfixed Bugs
 
@@ -157,7 +173,7 @@ I have tested the site on both google chrome and internet explorer
 
 The live link can be found here - https://ellisrobertsx.github.io/South-East-Asia/
 
-
+[Back to top](#contents)
 
 ## Credits
 - Code Institues course context
@@ -170,15 +186,18 @@ The live link can be found here - https://ellisrobertsx.github.io/South-East-Asi
 - Thailand Tourism
 - Google
 
+[Back to top](#contents)
 
 ### Content
 - The content for the home page is all from personal experience
 - The content for the thailand page is from personal experience and the help from travel Thailand
 - The content for the Vietnam page is from personal experience and the help from travel Vietnam
 
+[Back to top](#contents)
 
 ### Media
 - All media images are from Pexels
 
+[Back to top](#contents)
 
 ## Other General Project Advice
