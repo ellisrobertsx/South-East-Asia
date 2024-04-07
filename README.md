@@ -58,7 +58,7 @@ I would like to mention that I am going to keep working on this site to make it 
 ### Planning Stage
 
 - The purpose of this site is to give fellow backpackers the best places to go in both Thailand and Vietnam. Through personal experience, I have recommended the best places to go and things to do and giving a link to the best hostel to stay
-- I wanted to make the site and simple to use as possible, the navbar and hyperlinks make the site very user friendly and easy to navigate
+- I wanted to make the site as simple to use as possible, the navbar and hyperlinks make the site very user friendly and easy to navigate
 - I believe this site will be useful for anyone travelling to either Thailand or Vietnam.
 
 [Back to top](#contents)
@@ -199,7 +199,7 @@ The live link can be found here - https://ellisrobertsx.github.io/South-East-Asi
 - The content for the home page is all from personal experience
 - The content for the thailand page is from personal experience and the help from travel Thailand
 - The content for the Vietnam page is from personal experience and the help from travel Vietnam
-
+- Google about section 
 [Back to top](#contents)
 
 ### Media
