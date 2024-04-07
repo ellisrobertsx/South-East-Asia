@@ -55,7 +55,7 @@ I would like to mention that I am going to keep working on this site to make it 
 - The purpose of this site is to give fellow backpackers the best places to go in both Thailand and Vietnam. Through personal experience, I have recommended the best places to go and things to do and giving a link to the best hostel to stay
 - I wanted to make the site and simple to use as possible, the navbar and hyperlinks make the site very user friendly and easy to navigate
 - I believe this site will be useful for anyone travelling to either Thailand or Vietnam.
-
+[Back to top](#contents)
 
 ### Existing Features
 
@@ -81,9 +81,7 @@ I would like to mention that I am going to keep working on this site to make it 
 
 ![Home Screen](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/homescreen.png)
 - __Thailand Main Screen__
-
-
-  - The Thailand main page gives the user a chance to take a look at the top 4 places to go in Thailand.
+- The Thailand main page gives the user a chance to take a look at the top 4 places to go in Thailand.
   - Things to do in each location
   - Best place to stay in each location  
 
