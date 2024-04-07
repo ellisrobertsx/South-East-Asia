@@ -151,10 +151,14 @@ I would like to mention that I am going to keep working on this site to make it 
 [Back to top](#contents)
 
 ## Testing
-HTML Validator - A couple errors (see below)
-CSS Validator - No errors
-I have personally tested - making sure all hyperlinks and navbars work
-I have tested the site on both google chrome and internet explorer 
+
+- HTML Validator - A couple errors (see below)
+
+-CSS Validator - No errors
+
+-I have personally tested - making sure all hyperlinks and navbars work
+
+-I have tested the site on both google chrome and internet explorer 
 
 
 [Back to top](#contents)
@@ -165,6 +169,8 @@ I have tested the site on both google chrome and internet explorer
 - During the testing process i made sure the site was responsive on three screen sizes ( Phone Ipad Desktop)
 
 [Back to top](#contents)
+
+![Competition](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/competitionresponsive.png)
 
 ### Unfixed Bugs
 
