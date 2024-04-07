@@ -88,8 +88,11 @@ I would like to mention that I am going to keep working on this site to make it 
 
 ![Home Screen](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/homescreen.png)
 - __Thailand Main Screen__
+
   - The Thailand main page gives the user a chance to take a look at the top 4 places to go in Thailand.
+
   - Things to do in each location
+
   - Best place to stay in each location  
 
 
@@ -102,7 +105,9 @@ I would like to mention that I am going to keep working on this site to make it 
 
 
   - The Vietnam main page gives the user a chance to take a look at the top 4 places to go in Vietnam.
+
   - Things to do in each location
+
   - Best place to stay in each location  
 
 
