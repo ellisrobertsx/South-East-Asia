@@ -154,11 +154,11 @@ I would like to mention that I am going to keep working on this site to make it 
 
 - HTML Validator - A couple errors (see below)
 
--CSS Validator - No errors
+- CSS Validator - No errors
 
--I have personally tested - making sure all hyperlinks and navbars work
+- I have personally tested - making sure all hyperlinks and navbars work
 
--I have tested the site on both google chrome and internet explorer 
+- I have tested the site on both google chrome and internet explorer 
 
 
 [Back to top](#contents)
@@ -167,10 +167,11 @@ I would like to mention that I am going to keep working on this site to make it 
 - I encountered an error relating me to using the same ID multiple times, this was an easy fix as i changed the ID's to Classes and it kept the context of the page looking the way i wanted it to.
 - Another error found was because i had used LI elements below a section element, this was also an easy fix as i changed the section to a DIV
 - During the testing process i made sure the site was responsive on three screen sizes ( Phone Ipad Desktop)
+- I Will be improving the performance score once i complete the course 
 
 [Back to top](#contents)
 
-![Competition](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/competitionresponsive.png)
+![Competition](https://github.com/ellisrobertsx/South-East-Asia/blob/main/assets/readmeimages/lighthouse.png)
 
 ### Unfixed Bugs
 
